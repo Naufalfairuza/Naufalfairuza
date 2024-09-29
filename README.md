@@ -18,7 +18,6 @@ I am student B26 at Binus University, in the Faculty of Computer Science, majori
 ### Languages and Tools:
 [<img align="left" alt="Java" width="30px" src="https://github.com/user-attachments/assets/62941bf5-e693-4712-8ef5-09c0b663aec5" style="padding-right:10px;" />][frontend]
 [<img align="left" alt="html" width="30px" src="https://github.com/user-attachments/assets/e3f9a91e-79ea-45fa-a958-528a9bb789a5" style="padding-right:10px;" />][frontend]
-![html](https://github.com/user-attachments/assets/e3f9a91e-79ea-45fa-a958-528a9bb789a5)
 [<img align="left" alt="CSS" width="30px" src="https://github.com/user-attachments/assets/0a4fbb9d-32d9-438c-ad7f-33c8047f1bf4" style="padding-right:10px;" />][frontend]
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][frontend]
 [<img align="left" alt="C" width="30px" src="https://github.com/user-attachments/assets/f97b0ac1-11b8-4d6f-b55e-d81afe54fc36" style="padding-right:10px;" />][frontend]
