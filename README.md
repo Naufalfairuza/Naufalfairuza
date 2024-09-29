@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-<!--
+
 **Naufalfairuza/Naufalfairuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Hi there, I'm Naufal Fairuza👋
 ## About me:
+
+I am student B26 at Binus University, in the Faculty of Computer Science, majoring in Software Engineering. I have a deep interest in software development, especially in the aspect of programming. My experience in this field allows me to have a good understanding of the systematic and structured software development process. This includes how to analyze user needs, design effective software solutions, and implement and test those solutions to ensure their needs are met.
 
 - 🌱 I’m currently learning Javascript and Java
 - 👯 I’m looking to collaborate as Frontend developer and business analyst
